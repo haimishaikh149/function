@@ -1,0 +1,12 @@
+{
+  "name": "hira-shaikh-function1",
+  "version": "1.0.1",
+  "description": "\"# function\"",
+  "main": "fs.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
